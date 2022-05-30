@@ -1,0 +1,5 @@
+/bin/
+/.idea/
+/.classpath
+src/application/XMLFile
+err.txt
